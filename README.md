@@ -1,5 +1,5 @@
 # KMNumbers
-Android library to shorten long numbers. For example: 10.000 -> 10K, 10.000.000 -> 10M.
+Android library to shorten long numbers. For example: 10.000 -> 10.0K, 10.000.000 -> 10.0M.
 
 The sample
 ----------

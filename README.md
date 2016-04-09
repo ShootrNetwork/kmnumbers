@@ -1,4 +1,4 @@
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-KMNumbers-green.svg?style=true)](https://android-arsenal.com/details/1/3389)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-KMNumbers-green.svg?style=true)](https://android-arsenal.com/details/1/3389) [![Build Status](https://travis-ci.org/ShootrNetwork/kmnumbers.svg?branch=master)](https://travis-ci.org/ShootrNetwork/kmnumbers)
 
 # KMNumbers
 Android library to shorten long numbers. For example: 10.000 -> 10.0K, 10.000.000 -> 10.0M.
